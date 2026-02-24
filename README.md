@@ -17,7 +17,7 @@ The pipeline ingests raw Uber trip data, transforms it into a dimensional data m
 
 ## 🏗️ Architecture
 
-![Architecture](architecture.png)
+![Architecture](architecture.jpg)
 
 ### Flow:
 
@@ -31,7 +31,7 @@ The pipeline ingests raw Uber trip data, transforms it into a dimensional data m
 
 ## 📊 Data Model (Star Schema)
 
-![Data Model](data_model.png)
+![Data Model](data_model.jpeg)
 
 ### Fact Table:
 - trip transactions
